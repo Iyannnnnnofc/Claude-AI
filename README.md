@@ -10,14 +10,14 @@ Chatbot teks sederhana menggunakan API Claude. Tanya apa saja, AI langsung menja
 
 ## Cara Run
 ```
-python ai_chat.py
+python main.py
 ```
 Ketik pertanyaan lalu Enter. Ketik `exit` untuk keluar.
 
 ---
 
 ## API
-- https://api.azbry.com/api/ai/claude?q={pertanyaan}
+- https://api.azbry.com
 
 ---
 
