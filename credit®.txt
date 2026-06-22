@@ -1,0 +1,71 @@
+================================================
+  AI Chat Python - Deskripsi & Penjelasan
+================================================
+
+Nama Program : AI Chat Python
+Pembuat Kode : Iyan
+Status       : Free / Gratis
+API          : https://api.azbry.com (Free API)
+
+------------------------------------------------
+  Apa itu program ini?
+------------------------------------------------
+
+Program ini adalah chatbot berbasis teks yang
+berjalan di terminal / command line. Kamu bisa
+ngobrol dengan AI (Claude) langsung dari HP
+atau PC tanpa perlu browser.
+
+Dibuat menggunakan Python murni, tidak butuh
+install library tambahan.
+
+------------------------------------------------
+  Fungsi & Fitur
+------------------------------------------------
+
+1. Tanya jawab dengan AI
+   Ketik pertanyaan apa saja, AI akan menjawab
+   secara otomatis menggunakan model Claude.
+
+2. Berjalan di Termux (Android)
+   Cocok dipakai di HP lewat aplikasi Termux,
+   tidak butuh GUI atau tampilan grafis.
+
+3. Ringan & Cepat
+   Tidak ada animasi berlebihan, langsung ke
+   intinya. Input dan output simpel.
+
+4. Bebas dikembangkan
+   Kode ini free, boleh di-rename, dimodifikasi,
+   ditambah fitur, atau dipakai untuk proyek
+   pribadi maupun belajar.
+
+------------------------------------------------
+  Cara Pakai
+------------------------------------------------
+
+1. python main.py (bebas menggunakan versi python apa pun)
+2 Ketik pertanyaan lalu Enter
+3. Ketik 'exit' untuk keluar
+
+------------------------------------------------
+  Catatan
+------------------------------------------------
+
+Gunakan dengan bijak.
+Program ini dibuat untuk tujuan edukasi dan
+pembelajaran. Jangan gunakan untuk hal-hal
+yang merugikan orang lain.
+
+API yang digunakan adalah free API publik.
+Ketersediaan layanan tergantung penyedia API.
+
+------------------------------------------------
+  Credit
+------------------------------------------------
+
+Pembuat Kode : Iyan
+Bebas rename, modifikasi, atau tambah fitur.
+Silakan dikembangkan sesuai kebutuhan.
+
+================================================
